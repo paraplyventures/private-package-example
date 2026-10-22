@@ -1,0 +1,6 @@
+{
+  "name": "private-package-quickstart",
+  "private": true,
+  "packageManager": "pnpm@12.5.1",
+  "scripts": { "verify": "node verify.mjs" }
+}
